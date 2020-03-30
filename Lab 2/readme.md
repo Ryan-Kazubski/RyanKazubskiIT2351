@@ -1,4 +1,6 @@
 
 A.) I was thinking of doing a database on videogames released
+
 B.) The purpose would be to compare sales of video games based on date region, platform and genre. As for security I can try to not use the base root and set up a username and password system that only I know. If I needed to make accounts for people to use I can set restrictions to access that they have. I think it is important to not give out the Grant Option privelage to anyone else as I should be the only one working on it.
+
 C.)I have a hand written tables going. Some of my headers are. Game_PublisherID, PlatformID, ReleaseYear, GameID, PlatformName, GenreID, GameName, PublisherName, RegionID, GamePlatformID, NumSales, RegionName, ReleasePrice, TripleAPublisher, IndiePublisher, ReleasedInStores, ReleasedOnline, Available for pc, mac, xbox, ps4, switch. If I need more I can branch into active players, unique monthly players, ProScene yes or no. I have started normalizing some tables and I have around 5 or 6. I am currently working on collecting data from different publishers and normalizing my tables to make a table like the last assignment. https://www.vgchartz.com/gamedb/ is helping me get same base info. I then look up more particulars seperately.
